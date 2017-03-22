@@ -1,7 +1,6 @@
- for r in 123
+ for r in 1 2 3
 do
-echo "%%%"
-ps-e
+ps
 echo "************"
-sleep 3
+sleep 3s
 done
